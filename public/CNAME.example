@@ -1,0 +1,9 @@
+# Custom Domain Configuration
+# If you want to use a custom domain (e.g., www.yourname.com):
+# 1. Rename this file to CNAME (remove .example)
+# 2. Replace the line below with your domain
+# 3. Configure DNS with your domain registrar
+# 4. Update astro.config.mjs site URL
+
+# yourname.com
+
